@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(189, 185, 185);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main-container {
+    background-color: rgb(194, 187, 187);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 60%;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+h3 {
+    color: rgba(13, 13, 13, 0.936);
+    font-family: Verdana;
+    font-style: oblique;
+}
+
+h1{
+    font-style: oblique;
+}
+
+.pic-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin-left: 50px;
+    
+}
+
+.choose{
+    font-size: small;
+    font-style: oblique;
+    
+}
+
+#price {
+    color: rgba(76, 76, 76, 0.936);
+    font-family: Verdana;
+    font-size: larger;
+    font-style: oblique;
+}
+
+.bag-description{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+#number{
+    background-color: rgba(76, 76, 76, 0.517);
+    width: 30px;
+    height: 30px;
+}
+
+#add{
+    background-color: rgba(76, 76, 76, 0.447);
+    width: 90px;
+    height: 30px;
+    
+    
+}
+
+p{
+    font-size: large;
+    font-style: oblique;
+}
+
+.button{
+    background-color: rgba(184, 181, 181, 0.447);
+    width: 70px;
+    height: 30px;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+}
