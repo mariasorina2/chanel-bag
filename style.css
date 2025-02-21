@@ -28,7 +28,7 @@ h3 {
     font-style: oblique;
 }
 
-h1{
+h1 {
     font-style: oblique;
 }
 
@@ -39,13 +39,11 @@ h1{
     width: 50%;
     height: 50%;
     margin-left: 50px;
-    
 }
 
-.choose{
+.choose {
     font-size: small;
     font-style: oblique;
-    
 }
 
 #price {
@@ -55,36 +53,33 @@ h1{
     font-style: oblique;
 }
 
-.bag-description{
+.bag-description {
     margin-left: 100px;
     margin-right: 50px;
 }
 
-#number{
+#number {
     background-color: rgba(76, 76, 76, 0.517);
     width: 30px;
     height: 30px;
 }
 
-#add{
+#add {
     background-color: rgba(76, 76, 76, 0.447);
     width: 90px;
     height: 30px;
-    
-    
 }
 
-p{
+p {
     font-size: large;
     font-style: oblique;
 }
 
-.button{
+.button {
     background-color: rgba(184, 181, 181, 0.447);
     width: 70px;
     height: 30px;
     outline: none;
     border: 1px solid black;
     border-radius: 5px;
-    
 }
